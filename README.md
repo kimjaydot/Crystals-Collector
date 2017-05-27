@@ -1,6 +1,6 @@
 # week-4-game
 
-[week-4-game]("https://kimjaydot.github.io/week-4-game/")
+[week-4-game]("https://kimjaydot.github.io/week-4-game")
 
 This is a Crystals Collector Game where the user can select any of the following crystals to match the random number.
 
