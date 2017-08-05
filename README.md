@@ -13,4 +13,8 @@ Play the game [Here](https://kimjaydot.github.io/week-4-game)
 4. The value of each crystal is hidden from you until you click on it.
 5. Each time when the game starts, the game will change the values of each crystal.
 
+## Technologies Used
 
+* HTML5
+* CSS3
+* JavaScript
