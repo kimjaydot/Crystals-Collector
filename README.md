@@ -1,8 +1,9 @@
-# week-4-game
-
-[week-4-game](https://kimjaydot.github.io/week-4-game)
+# Crystals Collector
 
 This is a Crystals Collector Game where the user can select any of the following crystals to match the random number.
+
+Play the game [Here](https://kimjaydot.github.io/week-4-game)
+
 
 ## Instructions
 
